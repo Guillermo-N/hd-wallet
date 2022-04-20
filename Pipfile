@@ -12,9 +12,7 @@ bitarray = "*"
 ecpy = "*"
 base58 = "*"
 pyqrcode = "*"
+ipykernel = "*"
+jupyter = "*"
 
 [dev-packages]
-ipykernel = "*"
-
-[requires]
-python_version = "3.9"
