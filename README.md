@@ -1,4 +1,4 @@
-# hd-wallet
+# Bitcoin Wallet Walkthrough
 
 I started this project as a way to learn how does a Bitcoin transsaction work at the software level and ended up using this topic and repo as part of my Barchelos final project (*Bitcoin Wallet: simulación de una criptomoneda*).
 
